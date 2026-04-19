@@ -99,7 +99,7 @@ Job-Market-Analysis-using-Web-Scraping-EDA/
 
 **Hemant Singh Chauhan**  
 📊 Data Analyst  
-🔗 https://www.linkedin.com/in/hemantsinghchauhan/
+🔗 https://www.linkedin.com/in/hemantsinghchauhan/<br>
 📧 iamhemantsinghchauhan@gmail.com 
 
 ---

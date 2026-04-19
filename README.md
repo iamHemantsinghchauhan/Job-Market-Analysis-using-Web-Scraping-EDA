@@ -56,26 +56,24 @@ To analyze real-world job data and uncover key insights such as:
 ---
 
 ## 📂 Project Structure  
+
 Job-Market-Analysis-using-Web-Scraping-EDA/
 │
 ├── Assets/
-│ └── dashboard_preview.png
+│   └── dashboard_preview.png
 │
 ├── Dashboard/
-│ └── Ambition Box Analysis Dashboard.pbix
+│   └── Ambition Box Analysis Dashboard.pbix
 │
 ├── Dataset/
-│ ├── Ambitionbox Uncleaned Dataset.csv
-│ └── Excel_Cleaned_ambition.xlsx
+│   ├── Ambitionbox Uncleaned Dataset.csv
+│   └── Excel_Cleaned_ambition.xlsx
 │
 ├── Notebooks/
-│ ├── Ambitionbox Web Scraping.ipynb
-│ └── Ambitionbox Indian Job Market EDA.ipynb
+│   ├── Ambitionbox Web Scraping.ipynb
+│   └── Ambitionbox Indian Job Market EDA.ipynb
 │
 └── README.md
-
----
-
 ## 💼 Business Impact  
 
 - 📊 Helps job seekers understand **market demand & required skills**  

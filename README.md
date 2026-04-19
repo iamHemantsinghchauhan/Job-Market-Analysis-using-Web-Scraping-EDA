@@ -74,6 +74,8 @@ Job-Market-Analysis-using-Web-Scraping-EDA/
 │   └── Ambitionbox Indian Job Market EDA.ipynb
 │
 └── README.md
+
+---
 ## 💼 Business Impact  
 
 - 📊 Helps job seekers understand **market demand & required skills**  
@@ -97,7 +99,7 @@ Job-Market-Analysis-using-Web-Scraping-EDA/
 
 **Hemant Singh Chauhan**  
 📊 Data Analyst  
-🔗 [https://www.linkedin.com/in/gauri/](https://www.linkedin.com/in/hemantsinghchauhan/)  
+🔗 https://www.linkedin.com/in/hemantsinghchauhan/
 📧 iamhemantsinghchauhan@gmail.com 
 
 ---
